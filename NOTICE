@@ -1,0 +1,56 @@
+UNO ARENA
+Copyright (c) 2026 XHLEIK
+https://github.com/XHLEIK/UNO-ARENA
+
+TRADEMARK NOTICE
+----------------
+UNO is a registered trademark of Mattel, Inc. All rights in the UNO name,
+logo, and brand belong to Mattel.
+
+UNO ARENA is an unofficial, non-commercial fan project. It is not affiliated
+with, endorsed by, sponsored by, or approved by Mattel. No Mattel logos, card
+artwork, packaging, or other proprietary assets are included in this
+repository. Card faces and table art are original CSS/SVG renderings created
+for this project. The name "UNO" is used only to describe the game rules being
+implemented.
+
+The project is not monetized and does not sell cards, subscriptions, ads, or
+licenses. If a rights holder requests that the project be taken down or
+renamed, the maintainer will comply.
+
+CODE LICENSE
+------------
+Original source code in this repository is licensed under the PolyForm
+Noncommercial License 1.0.0. See LICENSE for the full terms.
+
+THIRD-PARTY SOFTWARE
+--------------------
+This project depends on open-source packages; each retains its own license.
+The direct dependencies are:
+
+- Next.js - MIT
+- React and React DOM - MIT
+- @supabase/supabase-js - MIT
+- Framer Motion - MIT
+- Zod - MIT
+- Lucide React - ISC
+- canvas-confetti - ISC
+- Tailwind CSS - MIT
+- Vitest - MIT
+- fast-check - MIT
+- TypeScript - Apache-2.0
+- ESLint and related config - MIT
+
+Development-only packages and transitive dependencies are listed in
+package.json and package-lock.json. Their license texts are available from
+their respective packages.
+
+FONTS
+-----
+Outfit, DM Sans, and JetBrains Mono are distributed under the SIL Open Font
+License 1.1 and loaded through next/font.
+
+NO WARRANTY
+-----------
+The software is provided "as is", without warranty or condition of any kind,
+as described in LICENSE.

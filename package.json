@@ -1,0 +1,48 @@
+{
+  "name": "uno-arena",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A real-time multiplayer UNO-style card game built with Next.js, React, TypeScript and Supabase.",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XHLEIK/UNO-ARENA.git"
+  },
+  "homepage": "https://github.com/XHLEIK/UNO-ARENA#readme",
+  "bugs": {
+    "url": "https://github.com/XHLEIK/UNO-ARENA/issues"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^14.9.0",
+    "lucide-react": "^1.66.0",
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "fast-check": "^4.10.2",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^4.1.12"
+  }
+}
